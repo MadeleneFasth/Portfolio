@@ -1,0 +1,16 @@
+* {
+  scroll-behavior: smooth;
+  /* font-family: "Questrial", sans-serif; */
+}
+
+:root {
+  --bg-color: #e2dbdb;
+  --header-text: #747272;
+  --header-second-text: #7a7878;
+  --text-color: rgb(10, 10, 9);
+  --second-text-color: #fafafa;
+}
+
+body {
+  background-color: var(--bg-color);
+}
