@@ -28,7 +28,7 @@ function About() {
 
         <div className="image-container">
           <img
-            src="../blob/main/docs/assets/profile3.jpg"
+            src="/blob/main/docs/assets/profile3.jpg"
             alt="profile-picture"
           />
         </div>
