@@ -28,7 +28,7 @@ function About() {
 
         <div className="image-container">
           <img
-            src="!(https://github.com/MadeleneFasth/Portfolio/blob/main/src/assets/profile3.jpg)"
+            src="url(https://github.com/MadeleneFasth/Portfolio/blob/main/src/assets/profile3.jpg)"
             alt="profile-picture"
           />
         </div>
