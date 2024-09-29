@@ -4,7 +4,7 @@ import "../style/About.css";
 
 function About() {
   return (
-    <div className="about-container">
+    <div className="about-container" id="about">
       <div className="about-text">
         <p className="light h2  caps inter ">.</p>
         <p className="light h2  caps inter hovered">a</p>

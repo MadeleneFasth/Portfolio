@@ -19,8 +19,11 @@ nav ul {
   margin-right: 1rem;
   z-index: 3;
   max-height: 1rem;
-
   font-size: 0.8rem;
+}
+nav a {
+  text-decoration: none;
+  color: var(--light-colors);
 }
 
 .home {
@@ -59,10 +62,6 @@ nav ul {
   letter-spacing: 0.6rem;
   font-weight: 200;
   font-size: 0.8rem;
-}
-
-.map {
-  color: red;
 }
 
 .nav-hover:hover {

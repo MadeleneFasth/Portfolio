@@ -21,11 +21,11 @@
 }
 
 .frontend-text {
-  margin-right: 37rem;
+  margin-right: 36.2rem;
 }
 
 .design-text {
-  margin-right: 9.6rem;
+  margin-right: 9.4rem;
 }
 
 .developer-text {
@@ -36,8 +36,8 @@
 .developer-text > *,
 .design-text > * {
   border: 1px solid var(--light-color);
-  max-width: 9rem;
-  min-width: 9rem;
+  max-width: 8.8rem;
+  min-width: 8.8rem;
   display: flex;
   justify-content: center;
   align-items: center;

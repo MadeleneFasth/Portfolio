@@ -16,8 +16,12 @@ function Navbar() {
         </div>
 
         <ul className="inter caps light">
-          <li className="nav-hover home">.home</li>
-          <li className="nav-hover about">.about</li>
+          <li className="nav-hover home">
+            <a href="#home">.home</a>
+          </li>
+          <li className="nav-hover about">
+            <a href="#about">.about</a>
+          </li>
           <li className="nav-hover education">.education</li>
           <li className="nav-hover projects">.projects</li>
         </ul>

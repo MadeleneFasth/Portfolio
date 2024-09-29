@@ -5,15 +5,8 @@ import "../style/root.css";
 
 function Home() {
   return (
-    <section className="home-section">
-      {/* <div className="name-container">
-        <h1 className="pink playfair h2 home-name">Madelene Fasth</h1>
-      </div> */}
-      {/* <ScrolpngText /> */}
+    <section className="home-section" id="home">
       <div className="home-text-container">
-        {/* <h1 className="h1 pink inter caps home-text ">Frontend Developer/</h1>
-
-        <h1 className="h1 pink inter caps home-text ">UX designer</h1> */}
         <div className="frontend-text">
           <p className="light h1  caps inter hovered">f</p>
           <p className="light h1  caps inter hovered">r</p>
