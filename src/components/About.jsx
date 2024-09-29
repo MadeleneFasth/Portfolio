@@ -43,8 +43,8 @@ function About() {
             skill and artistic sensibility to the table. Although I'm still
             learning and constantly improving my skills, I thrive in
             collaborative environments where open communication and teamwork are
-            paramount. Let's work together to create engaging and beautifully
-            designed web experiences!
+            paramount. Let's work together to create engaging, accessible and
+            beautifully designed web experiences!
           </p>
         </div>
       </div>
