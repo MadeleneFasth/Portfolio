@@ -15,7 +15,7 @@ function Quote() {
           In the intersection of code and creativity lies a canvas of endless
           possibilities. Each line of code is a stroke in a digital painting,
           and every user interaction is a brushstroke that brings it to life. My
-          journey as a front-end developer and UX designer is driven by the
+          journey as a frontend developer and UX designer is driven by the
           belief that technology should not only function seamlessly but also
           resonate with the human experience. I strive to create digital spaces
           that are not only intuitive but also inspiring, where every design
