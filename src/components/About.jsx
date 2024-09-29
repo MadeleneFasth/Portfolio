@@ -27,16 +27,16 @@ function About() {
         </div>
 
         <div className="image-container">
-          <img src="src\assets\profile3.jpg" alt="profile-picture" />
+          <img src="assets/profile3.jpg" alt="profile-picture" />
         </div>
 
         <div className="about-text-container">
           <p className="inter about-paragraph">
-            I'm a passionate frontend developer with a deep love for graphic
-            design and a knack for problem-solving. My journey into web
-            development was sparked by the thrill of finding elegant solutions
-            to complex challenges and the joy of creating visually stunning
-            designs.
+            I'm a passionate frontend developer and UX designer with a deep love
+            for graphic design and a knack for problem-solving. My journey into
+            web development was sparked by the thrill of finding elegant
+            solutions to complex challenges and the joy of creating visually
+            stunning designs.
           </p>
           <p className="inter about-paragraph">
             With a keen eye for aesthetics, I bring a unique blend of technical
