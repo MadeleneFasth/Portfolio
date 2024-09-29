@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unescaped-entities */
-
+import profile from "../assets/profile.png";
 import "../style/About.css";
 
 function About() {
@@ -27,7 +27,7 @@ function About() {
         </div>
 
         <div className="image-container">
-          <img src="../assets/profile.png" alt="profile-picture" />
+          <img src={profile} alt="profile-picture" />
         </div>
 
         <div className="about-text-container">
