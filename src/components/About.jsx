@@ -27,7 +27,7 @@ function About() {
         </div>
 
         <div className="image-container">
-          <img src="public/images/profile3.jpg" alt="profile-picture" />
+          <img src="../assets/profile3.jpg" alt="profile-picture" />
         </div>
 
         <div className="about-text-container">
